@@ -5,6 +5,9 @@ ImagineSetup::Application.routes.draw do
   
   resources :about
 
+#get pages/contact
+#match '/contact', :to => 'pages#contact'
+
 #resources :home, :controller => :home
   # The priority is based upon order of creation:
   # first created -> highest priority.

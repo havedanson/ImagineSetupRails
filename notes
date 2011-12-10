@@ -1,0 +1,22 @@
+Areas
+
+children
+outside
+hospitality(meet n greet)
+food
+stage
+sound system
+seating
+
+We'll go off of the seating
+
+ex. Seating
+ text 
+   ex. setup 150 chairs per diagrams attached
+ diagram
+   ex. picture of how the chairs are setup
+   ex. seating chart 
+ 
+linking to a picture
+- call the link_to method
+ example <% link_to ##picturename## , root_path %>
