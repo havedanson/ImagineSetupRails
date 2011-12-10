@@ -10,6 +10,9 @@ gem 'sqlite3'
 #javascript runtime gems
 gem 'execjs'
 gem 'therubyracer'
+gem 'ansi'
+
+# from jdub: This is a test
 
 
 # Gems used only for assets and not required
